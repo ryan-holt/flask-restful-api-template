@@ -5,3 +5,7 @@ __pycache__
 *.pyc
 /dist/
 /*.egg-info
+venv
+.vscode
+migrations
+flask.db
